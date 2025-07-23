@@ -51,3 +51,9 @@ View full character info including status, species, gender, and number of episod
 
 <img src="https://github.com/user-attachments/assets/703ae322-e652-4ec5-b68a-2a1606231ece" alt="Search Screen" width="200" />
 
+##
+
+- ### No Internet 
+Handles lost internet connection on any screen and shows an appropriate message when offline.
+
+<img src="https://github.com/user-attachments/assets/78cf870f-bf2b-450a-bfc1-503545b0e0f7" alt="Search Screen" width="200" />
