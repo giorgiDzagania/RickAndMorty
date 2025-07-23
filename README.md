@@ -30,15 +30,24 @@ Show a paginated list of all Rick and Morty characters for smooth page browsing.
 
 ##
 
-- ### Favorites Screen
+- ### Favorites 
 Displays saved characters from the local Room database. Users can also delete characters.
 
 <img src="https://github.com/user-attachments/assets/c813e291-eaae-4b37-8703-f51eec8c0e06" alt="Home Screen" width="200" />
 <img src="https://github.com/user-attachments/assets/65388984-6745-4065-9e7b-acf13e434faa" alt="Home Screen" width="200" />
 <img src="https://github.com/user-attachments/assets/c1b08a5e-f593-48e8-a347-a9ddc2491891" alt="Home Screen" width="200" />
 
-- ### Search Screen 
+##
+
+- ### Search  
 Quickly search characters by name.
 
 <img src="https://github.com/user-attachments/assets/c15bcdb2-4742-421b-8ea2-df9863cfe435" alt="Search Screen" width="200" />
+
+##
+
+- ### Character Details
+View full character info including status, species, gender, and number of episodes. Users can also save characters to favorites.
+
+<img src="https://github.com/user-attachments/assets/703ae322-e652-4ec5-b68a-2a1606231ece" alt="Search Screen" width="200" />
 
