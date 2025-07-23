@@ -14,7 +14,6 @@ import com.example.rickandmorty.presentation.screens.main_page.main_screens.save
 import com.example.rickandmorty.presentation.screens.main_page.main_screens.saved_page.components.NothingHasSavedYet
 import com.example.rickandmorty.ui.theme.RickPrimary
 import androidx.compose.foundation.lazy.items
-import androidx.compose.foundation.shape.RoundedCornerShape
 import androidx.compose.material.icons.Icons
 import androidx.compose.material.icons.filled.ArrowBack
 import androidx.compose.material3.Icon
@@ -27,7 +26,6 @@ import androidx.lifecycle.compose.collectAsStateWithLifecycle
 import org.koin.androidx.compose.koinViewModel
 import androidx.compose.ui.graphics.Color
 import androidx.compose.ui.unit.sp
-import com.example.rickandmorty.presentation.screens.main_page.main_screens.search_page.SearchEvent
 
 @Composable
 fun SavedItemsScreenDestination(

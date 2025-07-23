@@ -46,13 +46,23 @@ fun MainNavHost(
                 onNavigateToDetailsScreen = { characterId: Int ->
                     navHostController.navigate(MainDestinations.Details(id = characterId))
                 } as (Int?) -> Unit,
-                navigateBack = { navHostController.popBackStack() }
+                navigateBack = {
+                    navHostController.navigate(MainDestinations.Home) {
+                        popUpTo(0) { inclusive = true }
+                        launchSingleTop = true
+                    }
+                }
             )
         }
 
         composable<MainDestinations.Favorites> {
             SavedItemsScreenDestination(
-                onGoBack = { navHostController.popBackStack() },
+                onGoBack = {
+                    navHostController.navigate(MainDestinations.Home) {
+                        popUpTo(0) { inclusive = true }
+                        launchSingleTop = true
+                    }
+                },
                 onNavigateToDetailsScreen = { characterId: Int ->
                     navHostController.navigate(MainDestinations.Details(id = characterId))
                 }

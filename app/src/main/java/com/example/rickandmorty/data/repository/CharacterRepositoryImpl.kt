@@ -3,7 +3,6 @@ package com.example.rickandmorty.data.repository
 import com.example.rickandmorty.core.ApiCallHelper
 import com.example.rickandmorty.core.OperationStatus
 import com.example.rickandmorty.core.map
-import com.example.rickandmorty.data.local.entity.CharacterDao
 import com.example.rickandmorty.data.remote.mappers.toCharacter
 import com.example.rickandmorty.data.remote.mappers.toCharacterList
 import com.example.rickandmorty.data.remote.service.ApiService
