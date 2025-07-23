@@ -30,6 +30,13 @@ Show a paginated list of all Rick and Morty characters for smooth page browsing.
 
 ##
 
+- ### Favorites Screen
+Displays saved characters from the local Room database. Users can also delete characters.
+
+<img src="https://github.com/user-attachments/assets/c813e291-eaae-4b37-8703-f51eec8c0e06" alt="Home Screen" width="200" />
+<img src="https://github.com/user-attachments/assets/65388984-6745-4065-9e7b-acf13e434faa" alt="Home Screen" width="200" />
+<img src="https://github.com/user-attachments/assets/c1b08a5e-f593-48e8-a347-a9ddc2491891" alt="Home Screen" width="200" />
+
 - ### Search Screen 
 Quickly search characters by name.
 
