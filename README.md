@@ -25,9 +25,11 @@ An Android app built with Jetpack Compose that lets users explore, search, and f
 # Screenshots
 - ### Home Screen
 Show a paginated list of all Rick and Morty characters for smooth page browsing.
+
 <img src="https://github.com/user-attachments/assets/67c324b9-faed-4153-923c-50203f667d0d" alt="Home Screen" width="200" />
 
 - ### Search Screen 
 Quickly search characters by name.
+
 <img src="https://github.com/user-attachments/assets/c15bcdb2-4742-421b-8ea2-df9863cfe435" alt="Search Screen" width="200" />
 
