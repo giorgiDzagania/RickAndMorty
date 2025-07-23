@@ -21,3 +21,5 @@ An Android app built with Jetpack Compose that lets users explore, search, and f
 - MVI   
 - Coil for Image Loading
 ***
+
+# Screenshots
