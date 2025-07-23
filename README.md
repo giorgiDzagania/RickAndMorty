@@ -11,3 +11,13 @@ An Android app built with Jetpack Compose that lets users explore, search, and f
 - Smooth animated navigation between screens
 - Pagination support for efficient data loading
 - Built with modern Android libraries (Jetpack Compose, Navigation, etc.)
+
+## Tech Stack
+- Jetpack Compose  
+- Jetpack Navigation
+- Retrofit (Gson)  
+- Koin for Dependency Injection
+- Room 
+- Pagination  
+- MVI   
+- Coil for Image Loading
