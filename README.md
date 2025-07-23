@@ -28,7 +28,7 @@ Show a paginated list of all Rick and Morty characters for smooth page browsing.
 
 <img src="https://github.com/user-attachments/assets/67c324b9-faed-4153-923c-50203f667d0d" alt="Home Screen" width="200" />
 
-<hr style="border: 0.5px solid #ccc;" />
+##
 
 - ### Search Screen 
 Quickly search characters by name.
