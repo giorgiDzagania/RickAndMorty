@@ -23,4 +23,4 @@ An Android app built with Jetpack Compose that lets users explore, search, and f
 ***
 
 # Screenshots
-### Home Screen
+### - Home Screen
