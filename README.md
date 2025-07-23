@@ -24,3 +24,4 @@ An Android app built with Jetpack Compose that lets users explore, search, and f
 
 # Screenshots
 - ### Home Screen
+Displays a paginated list of all characters from the Rick and Morty universe. Pagination ensures smooth transitions between pages, enhancing the browsing experience.
